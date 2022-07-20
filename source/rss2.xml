@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>{{ config.title }}</title>
+    <link>{{ url }}</link>
+    <atom:link href="{{ url }}{{ config.feed.path }}" rel="self" type="application/rss+xml"/>
+    <googleplay:owner>{{ config.feed.email }}</googleplay:owner>
+    <itunes:owner>
+      <itunes:name>{{ config.feed.owner }}</itunes:name>
+      <itunes:email>{{ config.feed.email }}</itunes:email>
+    </itunes:owner>
+    <googleplay:author>{{ config.feed.owner }}</googleplay:author>
+    <itunes:author>{{ config.feed.owner }}</itunes:author>
+    <googleplay:category text="{{ config.feed.category }}"/>
+    <itunes:category text="{{ config.feed.category }}"/>
+    <description>{{ config.description }}</description>
+    <googleplay:image href="{{ config.feed.image }}"/>
+    <itunes:image href="{{ config.feed.image }}"/>
+    <language>{{ config.feed.language }}</language>
+    <googleplay:explicit>{{ config.feed.explicit }}</googleplay:explicit>
+    <itunes:explicit>{{ config.feed.explicit }}</itunes:explicit>
+    {% for post in posts.toArray() %}
+    <item>
+      <title>{{ post.title }}</title>
+      <description>
+        <content type="html">
+            {{ post.content }}
+        </content>
+      </description>
+      <pubDate>{{ post.date.toDate().toUTCString() }}</pubDate>
+      <enclosure url="{{ post.media }}" type="{{ post.type }}" length="{{ post.length }}"/>
+      <itunes:duration>{{ post.duration }}</itunes:duration>
+      <guid>{{ post.permalink | uriencode }}</guid>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
