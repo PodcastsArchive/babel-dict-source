@@ -2,13 +2,13 @@
 title: "第27集：嗑学家自述——我们嗑的到底是什么（嘉宾：朝阳名媛、北北）"
 date: 2021-12-08 07:55:00
 duration: '1:08:26'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol29.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol29.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4106
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第27集：嗑学家自述——我们嗑的到底是什么（嘉宾：朝阳名媛、北北）" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol29.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第27集：嗑学家自述——我们嗑的到底是什么（嘉宾：朝阳名媛、北北）" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol29.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/61b066fe74eec3013b5e32ba)**
 

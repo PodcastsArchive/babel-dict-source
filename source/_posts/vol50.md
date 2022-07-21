@@ -2,13 +2,13 @@
 title: "第47集：V圈资本论（上）——中之人雇佣劳动与资本"
 date: 2022-05-18 07:58:00
 duration: '0:55:44'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol50.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol50.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3344
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第47集：V圈资本论（上）——中之人雇佣劳动与资本" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol50.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第47集：V圈资本论（上）——中之人雇佣劳动与资本" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol50.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/6284aa1c069769098b593325)**
 

@@ -2,13 +2,13 @@
 title: "特别篇：不要回答？就要回答！回馈听友大放送"
 date: 2021-11-06 08:59:17
 duration: '0:49:18'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol24.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol24.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 2958
 type: 'audio/mpeg'
 ---
 
-{% aplayer "特别篇：不要回答？就要回答！回馈听友大放送" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol24.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "特别篇：不要回答？就要回答！回馈听友大放送" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol24.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/618645847a4ceea2107ffdd2)**
 

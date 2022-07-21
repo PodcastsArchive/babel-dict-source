@@ -2,13 +2,13 @@
 title: "第32集：不要停止我的音乐（下）——你凭什么哀悼华语乐坛？"
 date: 2022-01-19 07:50:00
 duration: '0:45:02'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol35.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol35.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 2702
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第32集：不要停止我的音乐（下）——你凭什么哀悼华语乐坛？" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol35.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第32集：不要停止我的音乐（下）——你凭什么哀悼华语乐坛？" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol35.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/61e7c2fcc2a8bc09b13b649b)**
 

@@ -2,13 +2,13 @@
 title: "第07集：中国語の再日本化？！ 大丈夫？"
 date: 2021-07-14 08:59:23
 duration: '0:50:07'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol8.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol8.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3007
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第07集：中国語の再日本化？！ 大丈夫？" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol8.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第07集：中国語の再日本化？！ 大丈夫？" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol8.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/60eea88a26a76c3f65914485)**
 

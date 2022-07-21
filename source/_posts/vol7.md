@@ -2,13 +2,13 @@
 title: "第06集：你冲浪时穿过哪些马甲？（三位主持人的网名来源大公开！）"
 date: 2021-07-08 09:29:35
 duration: '1:14:47'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol7.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol7.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4487
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第06集：你冲浪时穿过哪些马甲？（三位主持人的网名来源大公开！）" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol7.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第06集：你冲浪时穿过哪些马甲？（三位主持人的网名来源大公开！）" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol7.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/60e6cad0d2ba26a56e4d913d)**
 

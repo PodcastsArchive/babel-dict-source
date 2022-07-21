@@ -2,13 +2,13 @@
 title: "第56集：考编天梯摇摇欲坠，做题家们何去何从"
 date: 2022-07-20 07:55:00
 duration: '1:37:25'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol59.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol59.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 5845
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第56集：考编天梯摇摇欲坠，做题家们何去何从" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol59.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第56集：考编天梯摇摇欲坠，做题家们何去何从" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol59.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/62d7b4e96128166f26271d20)**
 

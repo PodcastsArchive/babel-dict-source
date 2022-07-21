@@ -2,13 +2,13 @@
 title: "第26集：有些人生来并不是牛马，有些人本来也不在罗马"
 date: 2021-12-01 07:50:00
 duration: '1:12:42'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol28.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol28.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4362
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第26集：有些人生来并不是牛马，有些人本来也不在罗马" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol28.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第26集：有些人生来并不是牛马，有些人本来也不在罗马" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol28.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/61a72b0f36124d2d26b5d747)**
 

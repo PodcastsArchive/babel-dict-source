@@ -2,13 +2,13 @@
 title: "第23集：五个马云陪你欢度双十一"
 date: 2021-11-10 07:55:00
 duration: '0:56:42'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol25.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol25.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3402
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第23集：五个马云陪你欢度双十一" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol25.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第23集：五个马云陪你欢度双十一" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol25.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/618b7c84ceafa8518f898ced)**
 

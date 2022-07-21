@@ -2,13 +2,13 @@
 title: "第01集：躺平不可耻且有用"
 date: 2021-06-02 09:49:32
 duration: '0:59:35'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol2.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol2.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3575
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第01集：躺平不可耻且有用" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol2.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第01集：躺平不可耻且有用" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol2.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/60beb756ef742260587c883c)**
 

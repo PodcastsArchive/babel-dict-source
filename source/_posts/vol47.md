@@ -2,13 +2,13 @@
 title: "第44集：二次元偏要涩涩🔞"
 date: 2022-04-20 07:03:08
 duration: '1:21:18'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol47.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol47.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4878
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第44集：二次元偏要涩涩🔞" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol47.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第44集：二次元偏要涩涩🔞" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol47.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/625fb29272f4ab83d324f601)**
 

@@ -2,13 +2,13 @@
 title: "第53集：老大哥出门买包烟——精苏们破碎的精神家园"
 date: 2022-06-29 08:25:00
 duration: '1:08:30'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol56.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol56.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4110
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第53集：老大哥出门买包烟——精苏们破碎的精神家园" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol56.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第53集：老大哥出门买包烟——精苏们破碎的精神家园" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol56.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/62bc0cf25c535dbd043ace82)**
 

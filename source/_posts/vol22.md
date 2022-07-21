@@ -2,13 +2,13 @@
 title: "第21集：“世界属于三体”（下）——周文王的黑暗森林"
 date: 2021-10-27 05:51:24
 duration: '0:50:35'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol22.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol22.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3035
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第21集：“世界属于三体”（下）——周文王的黑暗森林" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol22.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第21集：“世界属于三体”（下）——周文王的黑暗森林" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol22.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/6178e91133215418738f1e7b)**
 

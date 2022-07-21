@@ -2,13 +2,13 @@
 title: "第45集：两个豆瓣的两份遗产（嘉宾：玩乐时间-朝阳名媛）"
 date: 2022-04-27 05:55:21
 duration: '1:22:15'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol48.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol48.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4935
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第45集：两个豆瓣的两份遗产（嘉宾：玩乐时间-朝阳名媛）" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol48.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第45集：两个豆瓣的两份遗产（嘉宾：玩乐时间-朝阳名媛）" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol48.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/6268dc3667427058b84519da)**
 

@@ -2,13 +2,13 @@
 title: "第42集：黑暗骑士再崛起（下）——小丑竟是我自己（嘉宾：偶然误差FM-李秋实）"
 date: 2022-04-06 06:47:41
 duration: '0:55:51'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol45.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol45.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3351
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第42集：黑暗骑士再崛起（下）——小丑竟是我自己（嘉宾：偶然误差FM-李秋实）" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol45.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第42集：黑暗骑士再崛起（下）——小丑竟是我自己（嘉宾：偶然误差FM-李秋实）" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol45.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/624d4df40bc1b8e68a1e1221)**
 

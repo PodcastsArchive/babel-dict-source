@@ -2,13 +2,13 @@
 title: "第34集：V圈也有巴别塔？虚拟主播强势崛起"
 date: 2022-02-09 07:55:00
 duration: '1:17:32'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol37.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol37.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4652
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第34集：V圈也有巴别塔？虚拟主播强势崛起" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol37.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第34集：V圈也有巴别塔？虚拟主播强势崛起" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol37.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/6203753fc120ae716dbe9442)**
 

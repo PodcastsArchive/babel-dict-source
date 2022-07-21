@@ -2,13 +2,13 @@
 title: "第41集：黑暗骑士再崛起（上）——最写实的超级英雄（嘉宾：偶然误差FM-李秋实）"
 date: 2022-03-30 07:11:40
 duration: '0:57:26'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol44.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol44.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3446
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第41集：黑暗骑士再崛起（上）——最写实的超级英雄（嘉宾：偶然误差FM-李秋实）" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol44.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第41集：黑暗骑士再崛起（上）——最写实的超级英雄（嘉宾：偶然误差FM-李秋实）" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol44.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/624402ce4bc2b450952d90b2)**
 

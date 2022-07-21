@@ -2,13 +2,13 @@
 title: "第33集：喜迎春晚四十年，大家都在说方言"
 date: 2022-01-30 00:00:00
 duration: '1:28:16'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol36.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol36.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 5296
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第33集：喜迎春晚四十年，大家都在说方言" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol36.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第33集：喜迎春晚四十年，大家都在说方言" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol36.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/61f5d66c3ac8492cb2e18bcf)**
 

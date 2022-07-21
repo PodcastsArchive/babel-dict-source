@@ -2,13 +2,13 @@
 title: "第17集：救救孩子（下）——网络销烟之后的第二天"
 date: 2021-09-22 08:00:00
 duration: '0:57:21'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol18.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol18.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3441
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第17集：救救孩子（下）——网络销烟之后的第二天" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol18.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第17集：救救孩子（下）——网络销烟之后的第二天" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol18.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/614ae37c8e71e16a0a29cdbf)**
 

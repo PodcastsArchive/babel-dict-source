@@ -2,13 +2,13 @@
 title: "第00集：什么是网络方言？"
 date: 2021-06-02 09:11:50
 duration: '0:47:00'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol1.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol1.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 2820
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第00集：什么是网络方言？" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol1.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第00集：什么是网络方言？" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol1.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/60beb756ef742260587c883d)**
 

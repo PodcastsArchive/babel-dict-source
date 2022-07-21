@@ -2,13 +2,13 @@
 title: "第04集：象形文字复兴了，但它们真的通用吗？"
 date: 2021-06-23 08:28:48
 duration: '0:53:27'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol5.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol5.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3207
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第04集：象形文字复兴了，但它们真的通用吗？" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol5.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第04集：象形文字复兴了，但它们真的通用吗？" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol5.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/60d2f58e9e282ee17815b645)**
 

@@ -2,13 +2,13 @@
 title: "第12集：饭圈“双减”：给天使花钱，错了吗？！"
 date: 2021-08-18 07:32:31
 duration: '1:16:35'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol13.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol13.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4595
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第12集：饭圈“双减”：给天使花钱，错了吗？！" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol13.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第12集：饭圈“双减”：给天使花钱，错了吗？！" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol13.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/611cb99edc0c485d9a0c9241)**
 

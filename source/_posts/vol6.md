@@ -2,13 +2,13 @@
 title: "第05集：“我他🐎的不是舔狗，草”"
 date: 2021-06-30 06:29:40
 duration: '1:03:03'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol6.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol6.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3783
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第05集：“我他🐎的不是舔狗，草”" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol6.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第05集：“我他🐎的不是舔狗，草”" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol6.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/60dc115c38006d43c60be03e)**
 

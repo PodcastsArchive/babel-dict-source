@@ -2,13 +2,13 @@
 title: "第38集：吞了红药丸，真的能让男人看清现实吗？"
 date: 2022-03-09 06:58:22
 duration: '1:20:17'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol41.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol41.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4817
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第38集：吞了红药丸，真的能让男人看清现实吗？" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol41.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第38集：吞了红药丸，真的能让男人看清现实吗？" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol41.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/622856279d2fcf46aa36b6ca)**
 

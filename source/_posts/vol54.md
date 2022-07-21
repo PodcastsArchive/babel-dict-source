@@ -2,13 +2,13 @@
 title: "第51集：“我告诉你什么在萨勒姆作祟”——网络狂猎的兴起与心态"
 date: 2022-06-15 07:50:00
 duration: '1:06:56'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol54.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol54.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4016
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第51集：“我告诉你什么在萨勒姆作祟”——网络狂猎的兴起与心态" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol54.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第51集：“我告诉你什么在萨勒姆作祟”——网络狂猎的兴起与心态" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol54.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/62a990674666e46a7dc7d6ae)**
 

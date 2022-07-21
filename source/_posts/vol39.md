@@ -2,13 +2,13 @@
 title: "第36集：上帝到底给她关了哪扇窗，谷爱凌如何让你破大防"
 date: 2022-02-23 07:55:00
 duration: '1:14:12'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol39.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol39.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4452
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第36集：上帝到底给她关了哪扇窗，谷爱凌如何让你破大防" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol39.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第36集：上帝到底给她关了哪扇窗，谷爱凌如何让你破大防" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol39.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/6215eb6ae296370c6a3e9198)**
 

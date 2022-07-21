@@ -2,13 +2,13 @@
 title: "第13集：“差不多得了”（上）——网络流行语的保质期"
 date: 2021-08-25 06:58:37
 duration: '0:54:14'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol14.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol14.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3254
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第13集：“差不多得了”（上）——网络流行语的保质期" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol14.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第13集：“差不多得了”（上）——网络流行语的保质期" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol14.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/6125ea421aaa0faf0afd3425)**
 

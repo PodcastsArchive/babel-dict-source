@@ -2,13 +2,13 @@
 title: "第24集：神秘的京圈既不“京”也不“圈”"
 date: 2021-11-17 07:40:33
 duration: '1:02:13'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol26.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol26.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3733
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第24集：神秘的京圈既不“京”也不“圈”" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol26.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第24集：神秘的京圈既不“京”也不“圈”" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol26.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/6194b4b4788460e350396a41)**
 

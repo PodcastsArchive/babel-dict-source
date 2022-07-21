@@ -2,13 +2,13 @@
 title: "第48集：V圈资本论（下）——”你不干有的是人来干“"
 date: 2022-05-25 07:45:00
 duration: '0:55:29'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol51.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol51.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3329
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第48集：V圈资本论（下）——”你不干有的是人来干“" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol51.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第48集：V圈资本论（下）——”你不干有的是人来干“" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol51.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/628ddfc33b599f26e47bd57a)**
 

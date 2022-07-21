@@ -2,13 +2,13 @@
 title: "第55集：笑一笑，十年少——地狱笑话的起源与风靡"
 date: 2022-07-13 07:55:00
 duration: '1:07:17'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol58.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol58.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4037
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第55集：笑一笑，十年少——地狱笑话的起源与风靡" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol58.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第55集：笑一笑，十年少——地狱笑话的起源与风靡" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol58.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/62ce7aa9b7c092aed1a9b5ae)**
 

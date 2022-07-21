@@ -2,13 +2,13 @@
 title: "第35集：“你这批人是什么人啊”——中国男足的软柿子之路"
 date: 2022-02-16 07:55:00
 duration: '1:06:48'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol38.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol38.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4008
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第35集：“你这批人是什么人啊”——中国男足的软柿子之路" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol38.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第35集：“你这批人是什么人啊”——中国男足的软柿子之路" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol38.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/620caea9483d5d44f64c7916)**
 

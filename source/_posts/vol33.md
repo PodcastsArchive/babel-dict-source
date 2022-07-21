@@ -2,13 +2,13 @@
 title: "特别篇2：迷因无止尽"
 date: 2022-01-05 07:50:14
 duration: '0:40:01'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol33.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol33.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 2401
 type: 'audio/mpeg'
 ---
 
-{% aplayer "特别篇2：迷因无止尽" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol33.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "特别篇2：迷因无止尽" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol33.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/61d54f61afb282647b4b28aa)**
 

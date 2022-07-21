@@ -2,13 +2,13 @@
 title: "第54集：珍珠总有褪色一天，但东方之珠，则永远是东方之珠"
 date: 2022-07-06 07:50:00
 duration: '1:20:53'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol57.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol57.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4853
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第54集：珍珠总有褪色一天，但东方之珠，则永远是东方之珠" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol57.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第54集：珍珠总有褪色一天，但东方之珠，则永远是东方之珠" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol57.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/62c53ff1ac100fedabf22f08)**
 

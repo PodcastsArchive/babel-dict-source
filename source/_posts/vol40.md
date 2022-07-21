@@ -2,13 +2,13 @@
 title: "第37集：Galgame到底是黄油还是艺术？"
 date: 2022-03-02 06:01:27
 duration: '1:22:07'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol40.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol40.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4927
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第37集：Galgame到底是黄油还是艺术？" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol40.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第37集：Galgame到底是黄油还是艺术？" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol40.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/621f17d5761e0799b628fe24)**
 

@@ -2,13 +2,13 @@
 title: "第15集：服装即语言——“小裙子”的出圈史"
 date: 2021-09-08 08:31:06
 duration: '0:49:47'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol16.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol16.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 2987
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第15集：服装即语言——“小裙子”的出圈史" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol16.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第15集：服装即语言——“小裙子”的出圈史" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol16.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/613875c3c49abc75734d5bf0)**
 

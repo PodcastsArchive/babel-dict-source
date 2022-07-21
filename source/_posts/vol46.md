@@ -2,13 +2,13 @@
 title: "第43集：为什么（不）要看🔞"
 date: 2022-04-13 07:15:00
 duration: '1:15:05'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol46.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol46.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4505
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第43集：为什么（不）要看🔞" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol46.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第43集：为什么（不）要看🔞" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol46.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/62567a9e3c7db9a604938233)**
 

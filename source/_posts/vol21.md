@@ -2,13 +2,13 @@
 title: "第20集：“世界属于三体”（上）——刘慈欣如何成为弥赛亚"
 date: 2021-10-20 08:00:00
 duration: '1:03:20'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol21.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol21.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3800
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第20集：“世界属于三体”（上）——刘慈欣如何成为弥赛亚" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol21.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第20集：“世界属于三体”（上）——刘慈欣如何成为弥赛亚" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol21.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/616fcf623180b2a2789e7df4)**
 

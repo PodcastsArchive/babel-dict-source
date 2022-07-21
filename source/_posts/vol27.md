@@ -2,13 +2,13 @@
 title: "第25集：让索隐派的子弹再飞一会儿"
 date: 2021-11-24 08:00:00
 duration: '0:50:31'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol27.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol27.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3031
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第25集：让索隐派的子弹再飞一会儿" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol27.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第25集：让索隐派的子弹再飞一会儿" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol27.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/619df27ae3a0ed9628072611)**
 

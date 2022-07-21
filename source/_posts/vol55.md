@@ -2,13 +2,13 @@
 title: "第52期：你什么都可以做，但你什么都不想做——从规训社会到《倦怠社会》（嘉宾：王一力）"
 date: 2022-06-22 05:34:08
 duration: '1:31:55'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol55.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol55.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 5515
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第52期：你什么都可以做，但你什么都不想做——从规训社会到《倦怠社会》（嘉宾：王一力）" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol55.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第52期：你什么都可以做，但你什么都不想做——从规训社会到《倦怠社会》（嘉宾：王一力）" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol55.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/62b2ae1a7550034d35d47087)**
 

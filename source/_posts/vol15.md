@@ -2,13 +2,13 @@
 title: "第14集：“差不多得了”（下）——好听到跺jiojio"
 date: 2021-09-01 07:32:20
 duration: '0:47:59'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol15.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol15.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 2879
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第14集：“差不多得了”（下）——好听到跺jiojio" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol15.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第14集：“差不多得了”（下）——好听到跺jiojio" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol15.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/612f2f95610deda14a11feb3)**
 

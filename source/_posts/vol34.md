@@ -2,13 +2,13 @@
 title: "第31集：不要停止我的音乐（上）——“emo”出道日"
 date: 2022-01-12 07:50:00
 duration: '0:43:50'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol34.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol34.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 2630
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第31集：不要停止我的音乐（上）——“emo”出道日" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol34.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第31集：不要停止我的音乐（上）——“emo”出道日" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol34.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/61de8a58ad6743705a53c769)**
 

@@ -2,13 +2,13 @@
 title: "第10集：“血槽空了！”游戏方言如何进入我们的生活"
 date: 2021-08-04 07:56:50
 duration: '1:10:14'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol11.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol11.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4214
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第10集：“血槽空了！”游戏方言如何进入我们的生活" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol11.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第10集：“血槽空了！”游戏方言如何进入我们的生活" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol11.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/610a49fd863fc3bcda21167d)**
 

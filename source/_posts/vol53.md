@@ -2,13 +2,13 @@
 title: "第50集：高考不再独木桥，千军万马继续熬"
 date: 2022-06-08 07:50:00
 duration: '1:12:13'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol53.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol53.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4333
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第50集：高考不再独木桥，千军万马继续熬" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol53.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第50集：高考不再独木桥，千军万马继续熬" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol53.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/62a0562bae288d526dd02f53)**
 

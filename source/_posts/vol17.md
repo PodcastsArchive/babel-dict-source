@@ -2,13 +2,13 @@
 title: "第16集：救救孩子（上）——网游、追星是什么的“代餐”？"
 date: 2021-09-15 08:00:00
 duration: '0:57:44'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol17.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol17.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3464
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第16集：救救孩子（上）——网游、追星是什么的“代餐”？" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol17.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第16集：救救孩子（上）——网游、追星是什么的“代餐”？" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol17.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/6141a8910fe31888d3532ec1)**
 

@@ -2,13 +2,13 @@
 title: "第40集：超级英雄电影的审美疲劳终于来了？"
 date: 2022-03-23 07:48:19
 duration: '1:31:50'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol43.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol43.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 5510
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第40集：超级英雄电影的审美疲劳终于来了？" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol43.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第40集：超级英雄电影的审美疲劳终于来了？" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol43.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/623ad6dce162d50508b31854)**
 

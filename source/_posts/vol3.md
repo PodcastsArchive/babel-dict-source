@@ -2,13 +2,13 @@
 title: "第02集：是谁让你成为了最赞？"
 date: 2021-06-09 08:40:34
 duration: '0:55:21'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol3.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol3.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 3321
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第02集：是谁让你成为了最赞？" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol3.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第02集：是谁让你成为了最赞？" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol3.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/60c08359f38bcf7d331bd614)**
 

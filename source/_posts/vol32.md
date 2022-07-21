@@ -2,13 +2,13 @@
 title: "第30集：巴别塔年度调查——听众们最讨厌的词是……"
 date: 2021-12-29 07:55:00
 duration: '1:09:47'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol32.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol32.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4187
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第30集：巴别塔年度调查——听众们最讨厌的词是……" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol32.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第30集：巴别塔年度调查——听众们最讨厌的词是……" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol32.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/61cc183dbbf18090d1ffe45b)**
 

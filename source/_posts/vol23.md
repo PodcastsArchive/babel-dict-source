@@ -2,13 +2,13 @@
 title: "第22集：再聊元宇宙一律按贾跃亭转世灵童处理"
 date: 2021-11-03 08:00:00
 duration: '1:10:51'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol23.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol23.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4251
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第22集：再聊元宇宙一律按贾跃亭转世灵童处理" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol23.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第22集：再聊元宇宙一律按贾跃亭转世灵童处理" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol23.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/61824328cfcdfc2e34f1579c)**
 

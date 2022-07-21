@@ -2,13 +2,13 @@
 title: "第39集：中国人为啥非做出《老头环》不可？"
 date: 2022-03-16 09:23:36
 duration: '1:17:07'
-media: https://podcastsarchive.github.io/babel-dict/audio/vol42.m4a
+media: https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol42.m4a
 image: https://podcastsarchive.github.io/babel-dict/image/img.jpg
 length: 4627
 type: 'audio/mpeg'
 ---
 
-{% aplayer "第39集：中国人为啥非做出《老头环》不可？" BabelDict  https://podcastsarchive.github.io/babel-dict/audio/vol42.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
+{% aplayer "第39集：中国人为啥非做出《老头环》不可？" BabelDict  https://raw.githubusercontent.com/PodcastsArchive/babel-dict-source/master/audio/vol42.m4a https://podcastsarchive.github.io/babel-dict/image/img.jpg %}
 
 **[Link](https://www.xiaoyuzhoufm.com/episode/6231aed0b3332e99893ec3ad)**
 
